@@ -1,1 +1,1 @@
-El sistema tiene un incidente de conexion.
+El sistema tiene un problema de conexion.
