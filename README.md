@@ -48,3 +48,7 @@ Automatización con CRON
 0 8 * * * /home/david/Proyecto_Bash/automatizacion.sh
 
 La tarea ejecuta automáticamente el reporte todos los días a las 08:00 AM.
+
+## Curso
+
+Shell Scripting
