@@ -1,0 +1,6 @@
+Nombre IP Disco Estado
+Servidor01 192.168.1.10 45 normal
+Servidor02 192.168.1.11 78 alerta
+Servidor03 192.168.1.12 92 alerta
+Servidor04 192.168.1.13 67 normal
+Servidor05 192.168.1.14 85 alerta

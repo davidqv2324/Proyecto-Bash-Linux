@@ -1,0 +1,12 @@
+======================================
+ REPORTE DE ANALISIS DE SERVIDORES
+======================================
+
+Fecha:
+vie 06 nov 2026 10:48:11 -05
+
+Servidores con uso de disco mayor al 70%
+
+Servidor02 192.168.1.11 78% alerta
+Servidor03 192.168.1.12 92% alerta
+Servidor05 192.168.1.14 85% alerta
